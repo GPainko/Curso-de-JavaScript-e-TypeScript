@@ -1,3 +1,3 @@
 # Curso-de-JavaScript-e-TypeScript
-# Seção 1
-  JavaScript Básico
+# Seção 1:
+    JavaScript Básico
